@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "xmlTosbvSubs": {
+      "commandName": "Project",
+      "commandLineArgs": "\"c:\\users\\rory.vidal\\documents\\visual studio 2017\\Projects\\xmlTosbvSubs\\xmlTosbvSubs\\videosubs.xml\"",
+      "workingDirectory": "c:\\users\\rory.vidal\\documents\\visual studio 2017\\Projects\\xmlTosbvSubs\\xmlTosbvSubs"
+    }
+  }
+}
